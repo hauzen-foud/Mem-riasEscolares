@@ -1,178 +1,178 @@
 
 'use strict';
 
-// As 15 redações abaixo são textos-modelo originais.
-// Revise e personalize antes de entregar como portfólio escolar.
+// Portfólio de 15 redações-modelo.
+// Os textos podem ser personalizados com a escrita do aluno.
 
 const redacoes = [
   {
     titulo: "A educação como caminho para transformar o futuro",
     tema: "Educação",
-    texto: `A educação não se resume à transmissão de conteúdos. Ela oferece instrumentos para interpretar o mundo, reconhecer problemas e construir soluções. Ao longo da vida escolar, aprender a ler, argumentar e conviver com opiniões diferentes também significa desenvolver autonomia. Por isso, o acesso a uma formação de qualidade deve ser tratado como uma prioridade coletiva.
+    texto: `Quando a gente pensa na escola, é comum lembrar das provas, dos trabalhos e das notas. Mas aprender vai muito além disso. É também descobrir como defender uma ideia, ouvir alguém que pensa diferente e encontrar maneiras de resolver problemas. Por isso, uma boa educação faz diferença não só na vida de cada aluno, mas na sociedade inteira.
 
-Entretanto, ainda existem obstáculos que impedem muitos estudantes de aproveitar plenamente as oportunidades de aprendizagem. Desigualdades econômicas, dificuldades de transporte, falta de equipamentos e ausência de espaços adequados podem comprometer a permanência na escola. Além disso, quando o ensino parece distante da realidade dos jovens, a motivação tende a diminuir.
+O problema é que nem todos conseguem estudar nas mesmas condições. Há quem enfrente longos trajetos até a escola, não tenha internet em casa ou precise dividir o tempo entre os estudos e outras responsabilidades. E, quando as aulas parecem não ter ligação com a vida fora da sala, fica ainda mais difícil manter o interesse.
 
-Para enfrentar esse cenário, é necessário unir investimentos em infraestrutura a práticas pedagógicas que estimulem a participação. Projetos interdisciplinares, bibliotecas acessíveis e atividades relacionadas à comunidade tornam o conhecimento mais significativo. A família também pode contribuir ao acompanhar a trajetória do estudante e valorizar seu esforço.
+Melhorar essa realidade exige escolas bem cuidadas, materiais adequados e professores valorizados. Também faz sentido criar projetos que aproximem o conteúdo do cotidiano, como pesquisas sobre o bairro, feiras de ciências e atividades em grupo. A participação da família ajuda, especialmente quando o esforço do estudante é reconhecido.
 
-Assim, transformar a educação exige responsabilidade do poder público, das instituições e da sociedade. Uma escola acolhedora, equipada e comprometida com o desenvolvimento humano amplia possibilidades individuais e fortalece a cidadania. Investir na aprendizagem é, sobretudo, investir no futuro de todos.`
+A educação não resolve todos os problemas de uma vez, mas abre caminhos que antes pareciam distantes. Garantir que mais pessoas possam aprender com qualidade é dar a elas a chance de fazer escolhas e construir seu próprio futuro.`
   },
   {
     titulo: "A influência das redes sociais na juventude",
     tema: "Sociedade digital",
-    texto: `As redes sociais mudaram a maneira como as pessoas conversam, estudam e acompanham acontecimentos. Para os jovens, elas representam espaços de expressão e de construção de vínculos. Ao mesmo tempo, a velocidade das publicações e a busca constante por aprovação podem produzir insegurança e dificultar a concentração.
+    texto: `É difícil imaginar a rotina de um adolescente sem redes sociais. Elas estão nas conversas com os amigos, nas notícias, nos vídeos e até nos estudos. Essa facilidade de se conectar tem muitas vantagens, mas também trouxe uma pressão que nem sempre é percebida.
 
-Um dos principais desafios está na comparação entre a vida cotidiana e as imagens idealizadas publicadas na internet. Fotografias selecionadas e histórias editadas nem sempre mostram dificuldades ou frustrações. Quando esse conteúdo é interpretado como retrato fiel da realidade, pode gerar expectativas irreais sobre aparência, sucesso e felicidade.
+Basta passar alguns minutos rolando a tela para encontrar viagens, festas e pessoas aparentemente felizes o tempo todo. Só que quase ninguém publica os dias ruins ou as dificuldades que enfrenta. Quando a gente esquece disso, começa a comparar a própria vida com uma versão editada da vida dos outros. Essa comparação pode causar insegurança e atrapalhar até a concentração.
 
-Apesar desses riscos, as plataformas também oferecem oportunidades. Grupos de estudo, projetos culturais e campanhas de solidariedade demonstram que a tecnologia pode aproximar pessoas e ampliar o acesso à informação. O benefício depende do modo como cada usuário escolhe participar desses ambientes e da capacidade de avaliar a confiabilidade do que encontra.
+Ao mesmo tempo, seria injusto dizer que as redes só fazem mal. Elas ajudam a divulgar projetos, encontrar materiais para estudar e manter contato com pessoas que estão longe. O que muda o resultado é a forma de usar: quanto tempo ficamos conectados, o que acompanhamos e se verificamos aquilo que compartilhamos.
 
-Portanto, é importante desenvolver educação digital desde a escola. Debates sobre privacidade, respeito e verificação de informações ajudam a construir hábitos mais conscientes. Com equilíbrio entre o tempo conectado e as experiências presenciais, as redes sociais podem servir ao crescimento pessoal sem substituir as relações humanas.`
+Por isso, aprender a usar a internet com consciência deveria fazer parte da educação dos jovens. Ter momentos longe do celular, cuidar da privacidade e valorizar as amizades fora da tela são atitudes simples. As redes podem fazer parte da nossa vida sem precisar ocupar o lugar de tudo o que acontece nela.`
   },
   {
     titulo: "Sustentabilidade começa nas escolhas diárias",
     tema: "Meio ambiente",
-    texto: `A preservação ambiental costuma ser associada a grandes decisões políticas e econômicas. Entretanto, hábitos simples também influenciam o consumo de recursos e a produção de resíduos. Economizar água, evitar desperdícios e separar materiais recicláveis são atitudes que, quando compartilhadas por muitas pessoas, podem gerar mudanças relevantes.
+    texto: `Quando se fala em preservar o meio ambiente, muita gente imagina ações enormes, que dependem apenas de governos e empresas. Essas medidas realmente são necessárias, mas os hábitos de cada pessoa também contam. O desperdício de água, o excesso de embalagens e o descarte incorreto do lixo fazem parte de um problema que vemos todos os dias.
 
-O consumo excessivo é um dos obstáculos à sustentabilidade. Produtos descartados rapidamente exigem novas matérias-primas, transporte e energia para serem substituídos. Além disso, o descarte inadequado contribui para a poluição de ruas, rios e áreas naturais. Essa situação demonstra que o problema ambiental não começa apenas no lixo, mas também na maneira como compramos e utilizamos os objetos.
+Um exemplo é comprar algo novo mesmo quando o antigo ainda funciona. Parece uma decisão pequena, mas produzir e transportar mercadorias consome recursos naturais e energia. Depois, quando esses objetos são jogados fora sem cuidado, parte deles acaba poluindo ruas e rios. Isso mostra que precisamos pensar não só em como descartar, mas também no que realmente vale a pena consumir.
 
-A escola pode atuar como espaço de formação de hábitos responsáveis. Hortas, campanhas de redução do desperdício e projetos de reaproveitamento permitem relacionar teoria e prática. Empresas e governos, por sua vez, precisam melhorar a gestão de resíduos, ampliar a coleta seletiva e incentivar processos produtivos menos poluentes.
+Na escola, esse assunto pode sair dos livros e virar prática. Uma horta, a separação de resíduos ou uma campanha contra o desperdício ajudam a perceber os resultados das escolhas. Porém, não adianta colocar toda a responsabilidade nas pessoas se a cidade não oferece coleta seletiva e outras condições básicas.
 
-Dessa forma, sustentabilidade não deve ser entendida como uma tarefa isolada do cidadão. Ela depende de decisões individuais e de políticas estruturais que facilitem escolhas responsáveis. Cuidar do ambiente significa reconhecer que a qualidade de vida das próximas gerações está ligada às atitudes tomadas no presente.`
+Cuidar do planeta exige esforço conjunto. Ninguém precisa mudar tudo de um dia para o outro, mas começar com atitudes possíveis e cobrar melhorias maiores já é um bom caminho. Afinal, o ambiente que deixamos amanhã depende muito do que fazemos hoje.`
   },
   {
     titulo: "O valor da leitura em um mundo acelerado",
     tema: "Literatura",
-    texto: `Em uma rotina marcada por notificações e conteúdos breves, reservar tempo para a leitura pode parecer difícil. Ainda assim, os livros continuam importantes para a formação do pensamento crítico e da sensibilidade. Ao acompanhar histórias e argumentos, o leitor amplia o vocabulário e aprende a observar situações por diferentes perspectivas.
+    texto: `Com tantas mensagens, vídeos e notificações aparecendo o tempo inteiro, sentar para ler um livro pode parecer uma tarefa difícil. A leitura pede atenção e paciência, duas coisas que nem sempre combinam com a pressa do dia a dia. Mesmo assim, vale a pena reservar um tempo para ela.
 
-A leitura literária também permite conhecer realidades que não fazem parte da experiência pessoal. Personagens de outras épocas, regiões e culturas apresentam conflitos humanos que despertam reflexão. Já textos informativos ajudam a compreender assuntos complexos e a distinguir opiniões de argumentos fundamentados.
+Um livro permite conhecer lugares, épocas e pessoas que talvez nunca encontrássemos de outra forma. Às vezes, uma história faz o leitor entender melhor um sentimento que nem sabia explicar. Em outros momentos, um texto ajuda a questionar uma ideia ou perceber que existem vários lados para o mesmo assunto.
 
-Para incentivar esse hábito, não basta exigir listas de obras sem considerar o interesse dos estudantes. Bibliotecas convidativas, rodas de conversa e liberdade para explorar diferentes gêneros podem aproximar os jovens dos livros. Quadrinhos, crônicas, romances e poemas são portas de entrada igualmente válidas para a construção de uma rotina leitora.
+O problema é que muitos estudantes acabam associando leitura apenas a provas e atividades obrigatórias. Para mudar isso, seria interessante dar mais espaço à escolha. Nem todo mundo vai gostar do mesmo romance, e não há nada de errado em começar por quadrinhos, crônicas, mistério ou poesia. Conversar sobre o que foi lido também torna a experiência mais interessante.
 
-Portanto, ler não é apenas cumprir uma atividade escolar. Trata-se de exercitar a imaginação, a atenção e a capacidade de interpretar o mundo. Em meio à pressa cotidiana, a leitura oferece um espaço de pausa que pode tornar nossas escolhas mais conscientes.`
+Ler não precisa ser uma competição para terminar o maior número de páginas. O importante é criar uma relação com os textos e descobrir o que eles podem oferecer. Em um mundo tão acelerado, um bom livro continua sendo uma maneira especial de parar, imaginar e pensar.`
   },
   {
     titulo: "Inteligência artificial e responsabilidade humana",
     tema: "Tecnologia",
-    texto: `A inteligência artificial já participa de atividades como tradução, pesquisa e organização de informações. Sua presença desperta entusiasmo pela possibilidade de facilitar tarefas, mas também exige atenção aos limites dessas ferramentas. A tecnologia pode apoiar decisões, porém não substitui automaticamente o julgamento humano.
+    texto: `Hoje, a inteligência artificial aparece em aplicativos, pesquisas e ferramentas usadas para estudar. Ela consegue organizar informações, sugerir ideias e explicar assuntos em poucos segundos. É uma novidade que facilita bastante a rotina, mas usar essa tecnologia sem pensar também pode trazer problemas.
 
-Um risco importante é aceitar respostas geradas por sistemas digitais sem verificar sua origem ou precisão. Informações incorretas podem circular com aparência de segurança, especialmente quando são reproduzidas sem análise. Também existem preocupações relacionadas à privacidade e ao uso de dados pessoais.
+Nem toda resposta apresentada por um sistema está correta. Às vezes, a informação parece convincente e mesmo assim contém erros. Por isso, copiar tudo sem conferir pode prejudicar o aprendizado. Também precisamos ter cuidado com dados pessoais e com o que compartilhamos nessas plataformas.
 
-Por outro lado, a inteligência artificial pode favorecer a aprendizagem quando utilizada para esclarecer dúvidas, comparar ideias e oferecer novas formas de estudar. Nesse contexto, o estudante precisa continuar formulando perguntas, consultando fontes e produzindo suas próprias conclusões. O uso responsável valoriza o processo de aprender, e não apenas a rapidez da resposta.
+Isso não significa que a inteligência artificial deva ficar fora da escola. Ela pode ajudar a entender uma matéria difícil, encontrar diferentes formas de explicar um conteúdo e organizar um plano de estudos. A diferença está em usar a ferramenta como apoio, e não como substituta do próprio raciocínio. Se o aluno recebe uma resposta pronta e não entende o assunto, perde uma parte importante da atividade.
 
-Assim, escolas e famílias devem incentivar a alfabetização digital e a reflexão ética. Conhecer as possibilidades e os riscos da inteligência artificial prepara os jovens para utilizar a inovação com autonomia. O futuro tecnológico será melhor quanto maior for a responsabilidade das pessoas que o constroem.`
+A tecnologia vai continuar mudando, e aprender a lidar com ela é necessário. Mais do que saber fazer perguntas para uma máquina, precisamos desenvolver senso crítico, criatividade e responsabilidade. São essas capacidades que permitem aproveitar as vantagens da inteligência artificial sem deixar de pensar por conta própria.`
   },
   {
     titulo: "O respeito às diferenças fortalece a convivência",
     tema: "Cidadania",
-    texto: `Conviver em sociedade significa encontrar pessoas com histórias, opiniões e costumes distintos. Essas diferenças não deveriam ser motivo de afastamento, mas oportunidade de ampliar a compreensão sobre o mundo. O respeito começa quando reconhecemos que ninguém precisa pensar exatamente como nós para merecer dignidade.
+    texto: `Em uma sala de aula, ninguém é exatamente igual. Cada estudante tem sua história, seu jeito de falar, seus gostos e suas opiniões. Essa variedade pode tornar a convivência mais interessante, desde que exista respeito. O problema começa quando alguém é tratado como inferior simplesmente por ser diferente.
 
-Na escola, atitudes aparentemente pequenas podem produzir grandes consequências. Apelidos ofensivos, exclusões e comentários preconceituosos prejudicam o sentimento de pertencimento. Em contrapartida, ouvir colegas, acolher quem chega e resolver conflitos pelo diálogo tornam o ambiente mais seguro para todos.
+Comentários que parecem brincadeira para uns podem machucar bastante quem os recebe. Apelidos ofensivos, exclusão de grupos e julgamentos pela aparência criam um ambiente em que algumas pessoas passam a ter medo de se expressar. Uma escola deveria ser justamente o contrário: um lugar onde todos se sintam seguros para aprender.
 
-O combate à discriminação exige mais do que mensagens ocasionais. É importante estabelecer regras claras de convivência, oferecer canais de escuta e desenvolver atividades que apresentem diferentes experiências culturais e sociais. Professores, estudantes e responsáveis precisam agir de forma coerente diante de situações de desrespeito.
+Não basta falar sobre respeito em uma palestra e esquecer o assunto no dia seguinte. Professores e alunos precisam agir quando percebem situações injustas. Ouvir o outro, evitar julgamentos apressados e conversar antes de transformar uma diferença em conflito são atitudes que ajudam muito. A escola também pode promover atividades que apresentem culturas e experiências diversas.
 
-Portanto, valorizar as diferenças não significa concordar com todas as ideias, mas defender o direito de cada pessoa ser tratada com consideração. Uma comunidade escolar que pratica a empatia prepara seus integrantes para participar de uma sociedade mais justa e democrática.`
+Respeitar não é concordar com tudo. Podemos discutir ideias e continuar tratando as pessoas com educação. Aprender isso durante a vida escolar é importante porque, fora dela, vamos conviver com muitas outras diferenças. Saber lidar com elas faz parte de crescer.`
   },
   {
     titulo: "Saúde mental e os desafios da adolescência",
     tema: "Saúde e bem-estar",
-    texto: `A adolescência é um período de mudanças, descobertas e decisões importantes. Nesse processo, expectativas relacionadas ao desempenho escolar, às amizades e ao futuro podem provocar preocupação. Reconhecer que a saúde mental merece cuidado é essencial para que os jovens enfrentem essas pressões de maneira saudável.
+    texto: `A adolescência costuma ser lembrada como uma fase de descobertas e novas amizades. Mas ela também pode trazer inseguranças, cobranças e dúvidas sobre o futuro. Entre provas, expectativas da família e comparações com outras pessoas, nem sempre é fácil lidar com tudo ao mesmo tempo.
 
-Muitas vezes, o sofrimento emocional é escondido por medo de julgamentos. A ideia de que pedir ajuda demonstra fraqueza pode impedir conversas necessárias. Além disso, uma rotina sem descanso, lazer ou vínculos de confiança tende a aumentar a sensação de sobrecarga.
+Muitos jovens evitam contar quando não estão bem. Alguns têm receio de parecer fracos; outros acham que ninguém vai entender. Guardar todos os sentimentos, porém, pode tornar as dificuldades ainda mais pesadas. Descansar pouco e passar o dia inteiro tentando cumprir obrigações também não ajuda.
 
-A escola pode contribuir ao criar espaços de diálogo e orientar os estudantes sobre redes de apoio. A família, por sua vez, deve buscar escutar sem minimizar os sentimentos apresentados. Quando necessário, o acompanhamento de profissionais qualificados é um recurso importante, assim como o cuidado com sono, atividade física e relações sociais.
+Ter alguém disposto a ouvir faz diferença. Pode ser um familiar, um amigo de confiança ou um profissional preparado para oferecer apoio. Na escola, seria importante conversar mais sobre o assunto sem transformar cada dificuldade em motivo de julgamento. Cuidar do sono, ter momentos de lazer e manter relações saudáveis também faz parte desse cuidado.
 
-Desse modo, promover saúde mental não consiste em exigir felicidade constante. Significa reconhecer dificuldades, respeitar limites e construir condições para que cada pessoa receba apoio. Uma formação verdadeiramente completa considera tanto o conhecimento acadêmico quanto o bem-estar humano.`
+Ninguém precisa estar feliz o tempo todo, e pedir ajuda não deveria causar vergonha. Levar a saúde mental a sério é reconhecer que o bem-estar importa tanto quanto as notas. Aprender a cuidar de si é uma lição que continua valendo muito depois da formatura.`
   },
   {
     titulo: "O futuro do trabalho e a aprendizagem contínua",
     tema: "Trabalho e profissão",
-    texto: `As profissões estão mudando em resposta a novas tecnologias e necessidades sociais. Atividades antes realizadas manualmente passam por automação, enquanto outras funções surgem. Diante desse cenário, escolher uma carreira envolve não apenas conhecer o mercado atual, mas também desenvolver disposição para continuar aprendendo.
+    texto: `Pensar em qual profissão seguir depois da escola pode dar um frio na barriga. Existem muitas possibilidades, mas o mercado de trabalho muda rápido. Algumas tarefas passam a ser feitas por máquinas, novas áreas aparecem e habilidades que antes pareciam suficientes precisam ser atualizadas.
 
-O domínio de ferramentas digitais pode abrir oportunidades, mas competências humanas permanecem fundamentais. Comunicação, responsabilidade, criatividade e capacidade de trabalhar em equipe ajudam a resolver problemas que não possuem respostas prontas. Por isso, a formação profissional precisa integrar conhecimentos técnicos e habilidades de convivência.
+Saber usar tecnologia é importante, porém não resolve tudo. Uma pessoa também precisa se comunicar bem, trabalhar com outras pessoas e encontrar soluções quando algo sai do planejado. Essas capacidades são desenvolvidas em experiências diferentes, inclusive em trabalhos escolares e projetos em grupo.
 
-Para os estudantes que concluem o Ensino Médio, o planejamento do futuro pode começar pela identificação de interesses e pontos fortes. Conversar com profissionais, conhecer cursos e participar de experiências práticas são maneiras de tomar decisões mais informadas. Também é importante compreender que trajetórias profissionais podem mudar ao longo da vida.
+Para quem está terminando o Ensino Médio, uma boa forma de começar é pesquisar. Conversar com profissionais, conhecer cursos e observar o próprio interesse por determinadas atividades ajuda a tomar decisões. E vale lembrar que escolher um caminho agora não significa ficar preso a ele para sempre. Muita gente descobre novas áreas ao longo da vida.
 
-Assim, preparar-se para o trabalho não significa adivinhar exatamente qual profissão terá destaque no futuro. O caminho mais consistente é construir uma base de conhecimentos, agir com ética e manter a curiosidade. Aprender continuamente será uma das principais ferramentas para enfrentar transformações.`
+Talvez ninguém consiga prever exatamente como serão as profissões daqui a alguns anos. Por isso, mais importante do que acertar uma escolha perfeita é estar disposto a aprender. Com responsabilidade, curiosidade e dedicação, fica mais fácil aproveitar as oportunidades e enfrentar as mudanças que aparecerem.`
   },
   {
     titulo: "A importância do esporte na formação dos jovens",
     tema: "Esporte e educação",
-    texto: `O esporte ocupa um lugar especial na vida de muitos estudantes. Além de contribuir para a saúde física, ele ensina a lidar com regras, objetivos e resultados. Em uma partida, a vitória pode trazer alegria, mas a derrota também oferece oportunidades de aprendizado.
+    texto: `Para muita gente, a aula de Educação Física é um dos momentos mais esperados da semana. Correr, jogar e participar de uma equipe são atividades que ajudam a sair da rotina da sala de aula. Mas o esporte oferece muito mais do que exercício físico.
 
-A prática esportiva desenvolve cooperação e respeito quando é conduzida de maneira inclusiva. Cada integrante de uma equipe possui habilidades diferentes e precisa compreender sua responsabilidade coletiva. Por outro lado, a pressão exagerada por desempenho pode afastar quem está começando ou transformar a competição em motivo de conflito.
+Em uma partida, aprendemos que ninguém ganha sozinho. É preciso combinar estratégias, respeitar regras e confiar nos colegas. Também existem derrotas, erros e momentos de frustração. Saber lidar com essas situações é uma experiência que pode ajudar em outros desafios da vida.
 
-Por isso, as escolas devem oferecer atividades variadas, com espaço para diferentes níveis de experiência. O objetivo não precisa ser formar atletas profissionais, mas estimular movimento, convivência e hábitos saudáveis. Projetos esportivos comunitários também podem ampliar o acesso de jovens que não possuem equipamentos ou locais adequados.
+Por outro lado, quando só os melhores jogadores recebem atenção, alguns estudantes acabam ficando de fora. O esporte escolar deveria dar oportunidade a todos, inclusive a quem está começando ou prefere atividades diferentes. A escola pode oferecer modalidades variadas e valorizar o esforço, não apenas o resultado final.
 
-Dessa maneira, o esporte representa uma ferramenta educativa que ultrapassa os resultados do placar. Quando praticado com respeito e equilíbrio, contribui para a disciplina, a autoconfiança e a construção de amizades duradouras.`
+Praticar esportes pode melhorar a saúde, aproximar pessoas e ensinar responsabilidade. O mais importante é que a competição não faça ninguém esquecer o respeito. Afinal, as melhores lembranças de um jogo nem sempre são os gols ou os pontos, mas as pessoas com quem dividimos aquele momento.`
   },
   {
     titulo: "O combate ao bullying é responsabilidade de todos",
     tema: "Convivência escolar",
-    texto: `A escola deve ser um ambiente de aprendizagem e segurança. Entretanto, situações repetidas de humilhação, intimidação ou exclusão podem transformar a rotina de alguns estudantes em uma experiência dolorosa. O bullying não deve ser confundido com uma brincadeira quando existe intenção de ferir e desequilíbrio de poder.
+    texto: `Uma brincadeira deixa de ser engraçada quando alguém passa a sofrer com ela. Na escola, apelidos ofensivos, ameaças e exclusões repetidas podem fazer parte do bullying. O problema não deve ser ignorado, porque afeta a maneira como o estudante se sente e participa das atividades.
 
-As consequências podem aparecer na participação em sala, na autoestima e nas relações sociais. O silêncio de quem presencia as agressões também contribui para que o problema continue. Por isso, enfrentar o bullying exige atenção não apenas aos envolvidos diretamente, mas à cultura de convivência de toda a instituição.
+Quem passa por isso pode começar a evitar certos lugares, se afastar dos colegas ou perder a vontade de ir à escola. E não são apenas as agressões diretas que importam. Quando várias pessoas assistem e ninguém faz nada, quem está sendo humilhado pode sentir que não tem apoio.
 
-Uma resposta eficaz inclui orientação preventiva, acolhimento das vítimas e intervenção responsável diante dos episódios. Professores e gestores precisam estabelecer procedimentos claros, enquanto os estudantes devem ser incentivados a procurar ajuda e a não compartilhar conteúdos ofensivos. As famílias também têm papel importante no acompanhamento das mudanças de comportamento.
+É necessário que a escola tenha regras claras e leve os relatos a sério. Professores e responsáveis precisam ouvir os envolvidos, agir com cuidado e acompanhar a situação para que ela não continue. Os colegas também têm um papel importante: não espalhar mensagens ofensivas e procurar um adulto de confiança quando presenciarem uma agressão.
 
-Portanto, combater o bullying é construir uma escola em que o respeito seja praticado diariamente. Ações consistentes e diálogo podem transformar o ambiente escolar em um espaço onde todos se sintam pertencentes e tenham liberdade para aprender.`
+Combater o bullying não é tarefa de uma única pessoa. Depende de atitudes constantes e de um ambiente em que o respeito seja mais importante do que a vontade de rir de alguém. Todo estudante merece frequentar a escola sem medo.`
   },
   {
     titulo: "A cultura brasileira e a construção da identidade",
     tema: "Cultura",
-    texto: `A cultura brasileira é formada por múltiplas influências, tradições e expressões artísticas. Música, culinária, literatura e festas populares revelam maneiras distintas de compreender a vida. Conhecer essa diversidade ajuda a perceber que a identidade nacional não possui uma única forma de existir.
+    texto: `O Brasil tem uma cultura muito rica, e isso aparece em coisas simples do cotidiano: nas músicas que ouvimos, nas comidas típicas, nas festas e até nas expressões que usamos para conversar. Cada região tem suas tradições, e conhecer essas diferenças ajuda a entender melhor o país em que vivemos.
 
-Apesar dessa riqueza, algumas manifestações culturais recebem menos reconhecimento do que outras. Preconceitos regionais e desigualdades de acesso podem limitar a valorização de artistas e tradições. Quando a cultura é tratada como algo distante da escola, perde-se uma oportunidade de aproximar os conteúdos da experiência dos estudantes.
+Mesmo com tanta diversidade, nem todas as manifestações culturais recebem a mesma valorização. Algumas são vistas como mais importantes, enquanto outras sofrem preconceito ou acabam esquecidas. Isso é uma perda, porque cada tradição guarda histórias e experiências de pessoas que ajudaram a formar nossa sociedade.
 
-Projetos que envolvam histórias locais, apresentações artísticas e pesquisas sobre diferentes regiões podem ampliar o repertório dos jovens. O contato com museus, bibliotecas e produções independentes também contribui para preservar memórias coletivas e incentivar novas criações.
+A escola pode aproximar os estudantes desse patrimônio. Pesquisar festas locais, conhecer artistas brasileiros e conversar com pessoas mais velhas sobre suas lembranças são maneiras de aprender fora dos livros. Visitas a museus, apresentações e projetos culturais também tornam as aulas mais interessantes.
 
-Assim, valorizar a cultura brasileira significa reconhecer sua pluralidade e respeitar as pessoas que a constroem. A escola pode desempenhar um papel decisivo ao mostrar que conhecer nossas origens não impede a inovação; ao contrário, oferece referências para imaginar o futuro.`
+Valorizar a cultura brasileira não significa gostar de tudo ou deixar de conhecer outros países. Significa respeitar nossas origens e reconhecer que não existe uma única maneira de ser brasileiro. Quanto mais conhecemos essas histórias, mais entendemos a diversidade que faz parte da nossa identidade.`
   },
   {
     titulo: "Desinformação e a importância do pensamento crítico",
     tema: "Informação e mídia",
-    texto: `A internet permite que notícias e opiniões circulem em poucos segundos. Essa facilidade ampliou o acesso à informação, mas também favoreceu a disseminação de conteúdos falsos ou fora de contexto. Diante de tantas mensagens, saber verificar uma afirmação tornou-se uma habilidade indispensável.
+    texto: `Receber notícias pelo celular virou algo comum. Em poucos segundos, uma mensagem pode chegar a milhares de pessoas, mesmo quando ninguém sabe ao certo se ela é verdadeira. Por isso, a facilidade de compartilhar informações trouxe uma responsabilidade que nem sempre é levada a sério.
 
-A desinformação pode influenciar decisões individuais e coletivas. Imagens antigas apresentadas como atuais, títulos sensacionalistas e dados sem fonte confundem leitores. O problema se agrava quando uma publicação é compartilhada apenas porque confirma uma opinião pessoal, sem qualquer investigação.
+Uma foto antiga pode aparecer como se tivesse sido tirada ontem. Um título exagerado pode fazer alguém acreditar em algo sem ler a notícia inteira. E, quando a mensagem combina com aquilo que já pensamos, a vontade de compartilhar pode ser ainda maior. É assim que informações erradas acabam se espalhando.
 
-Para reduzir esses efeitos, é importante observar a autoria, a data e a origem das informações. Comparar diferentes veículos confiáveis e consultar fontes primárias são atitudes simples que ajudam a evitar erros. A escola pode desenvolver essas competências por meio de atividades de análise de notícias e debates sobre responsabilidade digital.
+Antes de repassar qualquer conteúdo, vale conferir quem publicou, quando foi publicado e se outros veículos confiáveis apresentam os mesmos fatos. Na escola, atividades de comparação entre notícias podem ensinar essa prática de forma simples. Não se trata de desconfiar de tudo, mas de aprender a procurar provas.
 
-Portanto, pensamento crítico não significa desconfiar de tudo indiscriminadamente. Significa buscar evidências antes de aceitar ou divulgar uma mensagem. Em uma sociedade conectada, a qualidade da informação depende também do cuidado de quem a recebe e compartilha.`
+Ter acesso a muita informação não significa estar bem informado. Precisamos saber escolher, interpretar e questionar o que recebemos. Esse cuidado ajuda a evitar boatos e permite participar das conversas com mais segurança e responsabilidade.`
   },
   {
     titulo: "Mobilidade urbana e qualidade de vida",
     tema: "Cidades e sociedade",
-    texto: `Deslocar-se pela cidade faz parte da rotina de estudantes e trabalhadores. Quando o transporte é demorado, caro ou inseguro, as consequências aparecem no tempo disponível para estudar, descansar e conviver com a família. A mobilidade urbana, portanto, está diretamente relacionada à qualidade de vida.
+    texto: `Quem depende de ônibus ou precisa atravessar a cidade todos os dias sabe como o transporte influencia a rotina. Um trajeto demorado pode significar menos tempo para estudar, descansar ou ficar com a família. Por isso, a mobilidade urbana não é apenas uma questão de trânsito: ela interfere na qualidade de vida.
 
-Em muitas regiões, o crescimento das cidades não foi acompanhado por planejamento adequado. A concentração de serviços em determinadas áreas aumenta as distâncias percorridas. Além disso, calçadas danificadas e a falta de integração entre diferentes meios de transporte dificultam a circulação, especialmente para pessoas com mobilidade reduzida.
+Em muitas cidades, os bairros cresceram sem que o transporte acompanhasse esse ritmo. Algumas pessoas moram longe da escola ou do trabalho e enfrentam ônibus lotados, calçadas ruins e falta de segurança. Para idosos e pessoas com deficiência, esses obstáculos podem ser ainda maiores.
 
-A melhoria desse cenário exige investimentos em transporte coletivo eficiente, acessibilidade e segurança viária. Ciclovias bem planejadas e espaços adequados para pedestres também podem oferecer alternativas de deslocamento. É fundamental ouvir os moradores para identificar necessidades reais de cada comunidade.
+Melhorar a situação exige planejamento. Transporte público mais eficiente, calçadas acessíveis e ciclovias seguras são algumas medidas possíveis. Também é importante ouvir quem usa esses serviços todos os dias, porque são essas pessoas que conhecem as dificuldades de cada trajeto.
 
-Assim, pensar a mobilidade é pensar no direito de participar da cidade. Um sistema de transporte mais acessível e organizado reduz desigualdades e permite que as pessoas aproveitem melhor seu tempo e suas oportunidades.`
+Uma cidade bem organizada deveria permitir que seus moradores se deslocassem com segurança e sem perder tantas horas no caminho. Investir em mobilidade é facilitar o acesso ao estudo, ao trabalho e aos espaços de lazer. No fim, é uma forma de tornar a cidade melhor para todos.`
   },
   {
     titulo: "Voluntariado e participação na comunidade",
     tema: "Solidariedade",
-    texto: `A transformação de uma comunidade não depende apenas de grandes projetos. Muitas melhorias começam quando pessoas identificam uma necessidade e decidem colaborar. O voluntariado pode aproximar vizinhos, fortalecer vínculos e mostrar que pequenas iniciativas possuem valor social.
+    texto: `Nem sempre é preciso fazer algo grandioso para ajudar alguém. Às vezes, participar de uma arrecadação, colaborar com a limpeza de um espaço público ou dedicar algumas horas a uma atividade comunitária já faz diferença. O voluntariado mostra que a vida em sociedade também depende da disposição de cuidar uns dos outros.
 
-Participar de campanhas de arrecadação, apoiar ações ambientais ou oferecer tempo para atividades educativas são exemplos de contribuição. Entretanto, ajudar exige respeito às necessidades de quem recebe o apoio. A solidariedade não deve ser usada para obter reconhecimento pessoal, mas para construir relações mais justas e cooperativas.
+Essas ações podem aproximar pessoas que antes nem se conheciam. Ao trabalhar em grupo, aprendemos a ouvir necessidades diferentes das nossas e a perceber problemas que passavam despercebidos. Mas ajudar de verdade também exige respeito. Não adianta decidir sozinho o que uma comunidade precisa sem conversar com quem vive nela.
 
-A escola pode estimular esse compromisso por meio de projetos que relacionem aprendizagem e participação social. Antes de agir, os estudantes podem pesquisar os desafios do bairro e conversar com organizações locais. Dessa maneira, as atividades deixam de ser pontuais e passam a responder a problemas concretos.
+A escola pode incentivar esse tipo de participação por meio de projetos ligados ao bairro. Os alunos podem pesquisar uma dificuldade local, conversar com moradores e planejar uma atividade possível. Assim, o aprendizado ganha um sentido prático e não fica limitado a uma campanha feita apenas uma vez.
 
-Portanto, o voluntariado é uma oportunidade de exercer cidadania e desenvolver empatia. Ao participar da vida coletiva, os jovens descobrem que suas decisões podem beneficiar outras pessoas. Uma sociedade mais solidária se constrói com responsabilidade e continuidade.`
+Ser voluntário não significa resolver todos os problemas do mundo. Significa entender que pequenas atitudes, quando feitas com responsabilidade e continuidade, têm valor. Participar da comunidade é uma maneira de aprender cidadania na prática.`
   },
   {
     titulo: "Encerrar o Ensino Médio e começar uma nova etapa",
     tema: "Projeto de vida",
-    texto: `Concluir o Ensino Médio representa o fechamento de uma fase importante. Durante anos, a escola organiza horários, desafios e encontros que passam a fazer parte da rotina. Quando essa etapa termina, surgem sentimentos diferentes: alegria pelas conquistas, saudade das pessoas e dúvidas sobre o futuro.
+    texto: `Chegar ao último ano do Ensino Médio traz uma sensação diferente. Durante muito tempo, a escola fez parte da rotina: acordar cedo, encontrar os colegas, entregar trabalhos e esperar as férias. De repente, percebemos que essa fase está acabando e que muitas coisas vão mudar.
 
-Esse momento também convida à reflexão sobre o que foi aprendido além das disciplinas. Trabalhos em grupo ensinam a negociar ideias; provas exigem organização; dificuldades mostram a importância da persistência. Nem todas as experiências são fáceis, mas muitas contribuem para desenvolver maturidade e autonomia.
+É normal sentir alegria pela conquista e, ao mesmo tempo, um pouco de saudade. Nem todos os dias foram fáceis. Houve provas complicadas, tarefas acumuladas e momentos em que parecia difícil acompanhar tudo. Mas também existiram conversas, risadas e experiências que ensinaram muito além das matérias.
 
-Ao pensar nos próximos passos, é natural sentir insegurança. Cursos, trabalho e novos projetos trazem possibilidades que nem sempre estão completamente definidas. Em vez de exigir respostas imediatas, pode ser mais útil estabelecer objetivos possíveis, buscar informações e aceitar que os planos podem mudar.
+Pensar no futuro pode causar insegurança. Escolher um curso, procurar trabalho ou começar um projeto novo são decisões importantes, e ninguém precisa ter todas as respostas imediatamente. O melhor é buscar informações, conhecer as próprias habilidades e entender que mudar de ideia faz parte do crescimento.
 
-Assim, a formatura não precisa ser vista como o fim de uma história, mas como uma passagem. As amizades, os conhecimentos e os aprendizados construídos na escola continuam presentes. O próximo capítulo será escrito com escolhas, esforço e abertura para novas descobertas.`
+A formatura não apaga o que vivemos na escola. As amizades, os erros e os aprendizados continuam fazendo parte de quem somos. Encerrar o Ensino Médio é fechar um capítulo importante, mas ainda existem muitas páginas para escrever. E talvez essa seja a parte mais interessante de seguir em frente.`
   }
 ];
 
-// Elementos da página
+// Elementos principais
 const grid = document.querySelector('#essayGrid');
 const search = document.querySelector('#search');
 const counter = document.querySelector('#counter');
@@ -181,7 +181,7 @@ const dialog = document.querySelector('#reader');
 
 let current = 0;
 
-// Criar os cards e filtrar as redações
+// Exibir e pesquisar as redações
 function render() {
   const q = search.value.toLocaleLowerCase('pt-BR').trim();
 
@@ -221,11 +221,13 @@ function render() {
     grid.append(b);
   }
 
-  counter.textContent = `${found.length} de ${redacoes.length} redações`;
+  counter.textContent =
+    `${found.length} de ${redacoes.length} redações`;
+
   empty.hidden = found.length !== 0;
 }
 
-// Abrir redação no leitor
+// Abrir a redação selecionada
 function openEssay(i) {
   current = i;
   const r = redacoes[i];
@@ -236,6 +238,7 @@ function openEssay(i) {
   document.querySelector('#readerTitle').textContent = r.titulo;
   document.querySelector('#readerTheme').textContent = r.tema;
   document.querySelector('#readerBody').textContent = r.texto;
+
   document.querySelector('#readerProgress').textContent =
     `${i + 1} / ${redacoes.length}`;
 
@@ -247,10 +250,10 @@ function openEssay(i) {
   dialog.scrollTop = 0;
 }
 
-// Pesquisa
+// Campo de pesquisa
 search.addEventListener('input', render);
 
-// Fechar leitor
+// Fechar a janela
 document.querySelector('#closeReader')
   .addEventListener('click', () => dialog.close());
 
@@ -268,12 +271,12 @@ document.querySelector('#nextEssay')
     }
   });
 
-// Fechar ao clicar fora do conteúdo
+// Fechar clicando fora da janela
 dialog.addEventListener('click', e => {
   if (e.target === dialog) dialog.close();
 });
 
-// Menu para celular
+// Menu para celulares
 const menu = document.querySelector('.menu-toggle');
 const nav = document.querySelector('#nav');
 
@@ -289,12 +292,13 @@ nav.querySelectorAll('a').forEach(a =>
   })
 );
 
-// Alternância de tema claro e escuro
+// Tema claro e escuro
 const theme = document.querySelector('#themeToggle');
 
 function setTheme(dark) {
   document.body.classList.toggle('dark', dark);
   theme.textContent = dark ? '☀' : '☾';
+
   theme.setAttribute(
     'aria-label',
     dark ? 'Ativar tema claro' : 'Ativar tema escuro'
@@ -315,5 +319,5 @@ try {
   setTheme(false);
 }
 
-// Iniciar a exibição
+// Carregar o portfólio
 render();
