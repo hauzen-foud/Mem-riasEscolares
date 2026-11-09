@@ -1,8 +1,8 @@
 
 'use strict';
 
-// Portfólio de 15 redações-modelo.
-// Os textos podem ser personalizados com a escrita do aluno.
+// Textos-modelo revisados para uma linguagem mais natural.
+// Personalize-os com a produção escolar do estudante.
 
 const redacoes = [
   {
@@ -172,7 +172,6 @@ A formatura não apaga o que vivemos na escola. As amizades, os erros e os apren
   }
 ];
 
-// Elementos principais
 const grid = document.querySelector('#essayGrid');
 const search = document.querySelector('#search');
 const counter = document.querySelector('#counter');
@@ -181,7 +180,6 @@ const dialog = document.querySelector('#reader');
 
 let current = 0;
 
-// Exibir e pesquisar as redações
 function render() {
   const q = search.value.toLocaleLowerCase('pt-BR').trim();
 
@@ -221,13 +219,10 @@ function render() {
     grid.append(b);
   }
 
-  counter.textContent =
-    `${found.length} de ${redacoes.length} redações`;
-
+  counter.textContent = `${found.length} de 15 redações`;
   empty.hidden = found.length !== 0;
 }
 
-// Abrir a redação selecionada
 function openEssay(i) {
   current = i;
   const r = redacoes[i];
@@ -238,7 +233,6 @@ function openEssay(i) {
   document.querySelector('#readerTitle').textContent = r.titulo;
   document.querySelector('#readerTheme').textContent = r.tema;
   document.querySelector('#readerBody').textContent = r.texto;
-
   document.querySelector('#readerProgress').textContent =
     `${i + 1} / ${redacoes.length}`;
 
@@ -250,33 +244,25 @@ function openEssay(i) {
   dialog.scrollTop = 0;
 }
 
-// Campo de pesquisa
 search.addEventListener('input', render);
 
-// Fechar a janela
 document.querySelector('#closeReader')
   .addEventListener('click', () => dialog.close());
 
-// Redação anterior
 document.querySelector('#prevEssay')
   .addEventListener('click', () => {
     if (current > 0) openEssay(current - 1);
   });
 
-// Próxima redação
 document.querySelector('#nextEssay')
   .addEventListener('click', () => {
-    if (current < redacoes.length - 1) {
-      openEssay(current + 1);
-    }
+    if (current < redacoes.length - 1) openEssay(current + 1);
   });
 
-// Fechar clicando fora da janela
 dialog.addEventListener('click', e => {
   if (e.target === dialog) dialog.close();
 });
 
-// Menu para celulares
 const menu = document.querySelector('.menu-toggle');
 const nav = document.querySelector('#nav');
 
@@ -292,7 +278,6 @@ nav.querySelectorAll('a').forEach(a =>
   })
 );
 
-// Tema claro e escuro
 const theme = document.querySelector('#themeToggle');
 
 function setTheme(dark) {
@@ -319,5 +304,4 @@ try {
   setTheme(false);
 }
 
-// Carregar o portfólio
 render();
